@@ -1,0 +1,8 @@
+.DS_Store
+.vim
+.data
+*.vim
+*.out
+*.vcd
+xsim.dir
+xvlog.*
